@@ -1,6 +1,6 @@
 ## Odin Project - Computer Science - Recursion
-# Recursion is a programming technique where a function calls itself in order to solve a problem. It typically involves a base case that stops the recursion and a recursive case that breaks the problem into smaller subproblems.
-# In this project, we will implement two common algorithms using recursion: the Fibonacci sequence and merge sort.
+ Recursion is a programming technique where a function calls itself in order to solve a problem. It typically involves a base case that stops the recursion and a recursive case that breaks the problem into smaller subproblems.
+ In this project, we will implement two common algorithms using recursion: the Fibonacci sequence and merge sort.
 ## Fibonacci Sequence
 The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones, usually starting with 0 and 1. The sequence goes: 0, 1, 1, 2, 3, 5, 8, 13, and so on. The nth Fibonacci number can be calculated using the following recursive formula:
 ```F(n) = F(n-1) + F(n-2)
