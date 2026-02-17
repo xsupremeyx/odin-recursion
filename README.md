@@ -19,6 +19,7 @@ Merge sort is a divide-and-conquer algorithm that sorts an array by recursively 
 ## How to use the exercise?
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
+3. Install the necessary dependencies using `npm install`.
 3. Open the `fibb.js` file and implement the `fibbonacci` function to calculate the nth Fibonacci number using recursion.
 4. Open the `merge.js` file and implement the `mergeSort` function to sort an array using the merge sort algorithm.
 5. You can test your implementations by creating test cases through using command:
